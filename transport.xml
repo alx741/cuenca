@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<transport type="bus">
+
+	<bus code="1">
+
+		<reference>Parque del Arte</reference>
+		<reference>Mercado 3 de Noviembre</reference>
+		<reference>Parque San Sebastián</reference>
+		<reference>Iglesia María Auxiliadora</reference>
+		<reference>Universidad Católica</reference>
+		<reference>Parque La Unión</reference>
+		<reference>Aereopuerto Mariscal La Mar</reference>
+		<reference>Complejo Deportivo de Totoracocha</reference>
+
+		<forth>
+			<street>Gonzáles Suárez</street>
+			<street>De los Andes</street>
+			<street>Hurtado de Mendoza</street>
+			<street>Nuñez de Bonilla</street>
+			<street>Vega Muñuz</street>
+			<street>Estéves de Toral</street>
+			<street>Rafael Mariá Arizaga</street>
+			<street>Coronel Talbot</street>
+			<street>Baltazara de Calderón</street>
+			<street>Gran Colombia</street>
+			<street>Ordoñez Lasso</street>
+			<street>Sayausí</street>
+		</forth>
+
+		<back>
+			<street>Sayausí</street>
+			<street>Ordoñez Lasso</street>
+			<street>Gran Colombia</street>
+			<street>Octavio Cordero</street>
+			<street>Gaspar Sangurima</street>
+			<street>Paso Deprimido</street>
+			<street>Hurtado de Mendoza</street>
+			<street>De los Andes</street>
+			<street>Gonzáles Suárez</street>
+		</back> 
+
+	</bus>
+
+</transport>
