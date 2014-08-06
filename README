@@ -5,3 +5,14 @@ Cuenca
 
 
 Aplicacion para Android que proporciona información de transporte publico para la ciudad de Cuenca - Ecuador
+
+
+El directorio INFORMATION contiene los datos crudos sobre el trasnporte
+publico, de momento solo las imagenes proporcionadas en las paginas web
+publicas de Cuenca.
+
+La información formateada para el uso de la aplicación se encuentra en el
+fichero TRANSPORT.XML, la etiqueta -transport- tiene el atributo -type-
+<bus>, la etiqueta -bus- tiene el atributo -code- y cada -bus- tiene 1 o más
+-reference-, un camino -forth- y otro -back- que dentro contiene cada -street-
+del recorrido.
