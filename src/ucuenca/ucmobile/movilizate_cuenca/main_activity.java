@@ -1,4 +1,4 @@
-package ucuenca.ucmobile.cuenca;
+package ucuenca.ucmobile.movilizate_cuenca;
 
 import android.app.Activity;
 import android.os.Bundle;
